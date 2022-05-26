@@ -5,10 +5,9 @@ Calificación del laboratorio
 
 import sys
 
-import soluciones
-
-# import preguntas
-preguntas = soluciones
+#import soluciones
+import preguntas
+#preguntas = soluciones
 
 
 def test_01():
